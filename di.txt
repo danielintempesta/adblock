@@ -2,3 +2,15 @@
 ||meneame.net^$popup
 *$domain=meneame.net
 meneame.net##body
+||forocoches.com^
+||forocoches.com^$popup
+*$domain=forocoches.com
+forocoches.com##body
+||idealista.com^
+||idealista.com^$popup
+*$domain=idealista.com
+idealista.com##body
+||webempresa.eu^
+||webempresa.eu^$popup
+*$domain=webempresa.eu
+webempresa.eu##body
