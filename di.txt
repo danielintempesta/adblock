@@ -1,0 +1,4 @@
+||meneame.net^
+||meneame.net^$popup
+*$domain=meneame.net
+meneame.net##body
